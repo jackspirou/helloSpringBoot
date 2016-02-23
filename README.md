@@ -1,2 +1,2 @@
 # helloSpringBoot
-This is a Spring Boot hello world application
+A Spring Boot hello world application.
